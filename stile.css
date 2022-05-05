@@ -277,9 +277,22 @@ section {
     #logo {width:200px; margin:20px 20px 20px 20px}
     .bg-overlay {display:none!important;}
     .footer-grid {
-      grid-template-columns: 100%; 
-      margin: 0 ; 
-    PADDING: 0;}
+      grid-template-columns: 100%; }
+   
+      h1 {font-size: 30px;}
+      
+    
+  h2 {font-size:20px;}
+       
+     
+  h3 {
+       font-size:15px;
+     }
+     
+       
+  p {font-size: 15px;
+       
+      }
     }
 
 @media only screen and (min-device-width: 480px) {
